@@ -67,7 +67,7 @@ export default function Footer() {
       {/* Bottom Copyright */}
       <div className="relative mt-12 border-t border-red-500/30 pt-6 text-center text-gray-400 text-sm">
         © 2025 Takshak. All Rights Reserved. <br />
-        Developed by <span className="text-red-400 font-medium">Team Hack Sprint</span>
+        Developed by <span className="text-red-400 font-medium">Team HackTillDawn</span>
       </div>
     </footer>
   );
